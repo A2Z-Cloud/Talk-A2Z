@@ -1,0 +1,1 @@
+git+git://github.com/blueshed/blueshed-micro.git
