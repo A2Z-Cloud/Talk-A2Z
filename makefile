@@ -5,3 +5,5 @@ test:
 	py.test --cov=talka2z tests/
 test_fail:
 	py.test --cov=talka2z --ff -x tests/
+deploy:
+	python setup.py register sdist upload
