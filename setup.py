@@ -5,7 +5,7 @@ from pip.req import parse_requirements as parse
 
 setup(
     name='talka2z',
-    version='0.3.1',
+    version='0.4',
     packages=find_packages(exclude=('tests', 'tests.*')),
     install_requires=[
     ]
